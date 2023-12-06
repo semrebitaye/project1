@@ -9,7 +9,7 @@ func main() {
 	var totalVacancy = 50
 	var remainingVacancy = 50
 
-	fmt.Printf("Welcome to %v vacancy form.\n", companyName)
+	fmt.Printf("Welcome to %v vacancy form. you can register here.\n", companyName)
 	fmt.Printf("We have a total of %v vacancies and %v are still available.\n", totalVacancy, remainingVacancy)
 
 	for {
